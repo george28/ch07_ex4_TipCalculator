@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\660162328\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\660162328\Desktop\ch07_ex4_TipCalculator\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-45bdaf3713e749705c87cc1e19c3b0f549cb9564.jar" />
+    </item>
+
+</items>
